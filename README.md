@@ -19,5 +19,3 @@ Este proyecto está diseñado para estudiantes principiantes en desarrollo web, 
 
 ⚠️ **No se utilizan Flexbox ni CSS Grid** para fomentar el aprendizaje de técnicas clásicas de maquetación.
 
-## 📁 Estructura del proyecto
-
